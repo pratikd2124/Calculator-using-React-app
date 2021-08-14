@@ -1,0 +1,10 @@
+#ac,#equals {
+    background-color: skyblue;
+    
+}
+#equals{
+    border-bottom-right-radius:10px;
+}
+#ac:hover,#equals:hover{
+    background-color: rgba(255, 255, 255,0.87);
+}
